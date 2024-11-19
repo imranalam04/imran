@@ -6,7 +6,7 @@ Web Developer
 
 Web Developer with 2 years of experience designing and developing intuitive, high-performance applications using the JavaScript stack. Skilled in building and optimizing code for various sectors, I’m focused on contributing to remote-first global organizations, thriving in asynchronous work environments across time zones.
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in India
 * ✉️  You can contact me at [imranalam4658@gmail.com](mailto:imranalam4658@gmail.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
